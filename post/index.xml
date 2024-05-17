@@ -5,12 +5,142 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Differential equation</title>
+      <link>https://example.com/post/differential/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/differential/</guid>
+      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
+&lt;p&gt;In mathematics, a differential equation is an equation that relates one or more unknown functions and their derivatives.[1] In applications, the functions generally represent physical quantities, the derivatives represent their rates of change, and the differential equation defines a relationship between the two. Such relations are common; therefore, differential equations play a prominent role in many disciplines including engineering, physics, economics, and biology.&lt;/p&gt;
+&lt;p&gt;The study of differential equations consists mainly of the study of their solutions (the set of functions that satisfy each equation), and of the properties of their solutions. Only the simplest differential equations are soluble by explicit formulas; however, many properties of solutions of a given differential equation may be determined without computing them exactly.&lt;/p&gt;
+&lt;p&gt;Often when a closed-form expression for the solutions is not available, solutions may be approximated numerically using computers. The theory of dynamical systems puts emphasis on qualitative analysis of systems described by differential equations, while many numerical methods have been developed to determine solutions with a given degree of accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week 5</title>
+      <link>https://example.com/post/previous-week-5/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previous-week-5/</guid>
+      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
+&lt;p&gt;I was preparing for a test in mathematical logic, reading a book on C++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week 4</title>
+      <link>https://example.com/post/previous-week-4/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previous-week-4/</guid>
+      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
+&lt;p&gt;I was preparing for a test in mathematical logic, reading a book on C++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/scientific-programming-languages/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages-which-one-to-choose&#34;&gt;Scientific programming languages: which one to choose?&lt;/h2&gt;
+&lt;p&gt;Scientific programming requires a special approach and tools. The choice of programming language can significantly affect the effectiveness of the study. Let&amp;rsquo;s look at the most popular languages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Python: With its flexibility and wide support for libraries such as NumPy, SciPy and Pandas, Python is one of the leaders in academia. It is ideal for data science, machine learning and modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;R: This language is especially popular among statisticians and data analysts. R offers an extensive set of packages for statistical analysis and data visualization, making it indispensable for statistical research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MATLAB: Excels in engineering and mathematical calculations. MATLAB provides powerful tools for numerical analysis and visualization, and supports the development of models and algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Julia: A new but rapidly growing language that combines the speed of C with the convenience of Python. Julia is designed specifically for high-performance scientific and engineering computing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fortran: Despite its age, Fortran remains the language of choice for many high-performance computing applications due to its efficiency and ability to handle large amounts of data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The choice of programming language in the scientific field depends on the specifics of the problem, the required performance and the available resources. Experiment with different languages ​​and find the one that best suits your research needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How my week 3 went</title>
+      <link>https://example.com/post/previous-week-3/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previous-week-3/</guid>
+      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
+&lt;p&gt;An ordinary week, again&amp;hellip; Reading, studying, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with biography</title>
+      <link>https://example.com/post/work-with-biography/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/work-with-biography/</guid>
+      <description>&lt;h2 id=&#34;working-with-biography&#34;&gt;Working with biography&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Working Effectively with Bibliography: Best Practices and Tools&lt;/p&gt;
+&lt;p&gt;In academic and scientific work, accurate and competent design of the bibliography plays a key role. Here are some tips to make this process easier and better:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Use specialized programs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zotero and EndNote will help you organize your sources by automatically formatting them in the desired style.&lt;/li&gt;
+&lt;li&gt;Mendeley will not only help with registration, but will also provide access to the network for sharing research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Follow the design requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Check what citation style is required by your school or journal (APA, MLA, Chicago, etc.).&lt;/li&gt;
+&lt;li&gt;Check each source against these standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take notes while reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write down important points and quotes as you read, this will make it easier to find the information you need when compiling a bibliography.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Update your bibliography regularly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add sources as you use them so you don&amp;rsquo;t miss anything important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Check everything before final submission:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After completing the work, double-check each entry in the bibliography to avoid errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mastering bibliography skills will greatly improve the quality of your academic and research projects. This will show your accuracy and serious attention to detail, which is important in the academic world.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week 2</title>
+      <link>https://example.com/post/previous-week-2/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previous-week-2/</guid>
+      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
+&lt;p&gt;An ordinary week, there were several tests, but I coped with them.&lt;/p&gt;
+&lt;p&gt;##ChatGPT&lt;/p&gt;
+&lt;p&gt;experimented with prompts in chatgpt. I changed the queries and looked at the difference in the answers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>markdown</title>
@@ -32,115 +162,47 @@
     </item>
     
     <item>
-      <title>Как прошла моя неделя 2</title>
-      <link>https://example.com/post/previous-week-2/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/previous-week-2/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/previous-week-2/1_hud72a5d51e8a3ed3df54b5e71c2432e4a_305326_4a814aa7ad28dd14b1c576af374ad65e.webp 400w,
-               /post/previous-week-2/1_hud72a5d51e8a3ed3df54b5e71c2432e4a_305326_5963c7520053d377ee450bb1445c410f.webp 760w,
-               /post/previous-week-2/1_hud72a5d51e8a3ed3df54b5e71c2432e4a_305326_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/previous-week-2/1_hud72a5d51e8a3ed3df54b5e71c2432e4a_305326_4a814aa7ad28dd14b1c576af374ad65e.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;кратко&#34;&gt;Кратко&lt;/h2&gt;
-&lt;p&gt;Обычная неделя, было нескольео контрольных, но я с ними справился.&lt;/p&gt;
-&lt;h2 id=&#34;chatgpt&#34;&gt;ChatGPT&lt;/h2&gt;
-&lt;p&gt;эксперементировал с промптами в chatgpt. Менял запросы и смотрел различие в ответах.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Как прошла моя неделя</title>
-      <link>https://example.com/post/previous-week/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/previous-week/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/previous-week/1_huf82040eb99bb5e0ab90fbfc1dd9b7c2f_233193_06c2811cb3a4428bccf0455117b8d6f7.webp 400w,
-               /post/previous-week/1_huf82040eb99bb5e0ab90fbfc1dd9b7c2f_233193_f1514c25eb4c5144670438729079c23f.webp 760w,
-               /post/previous-week/1_huf82040eb99bb5e0ab90fbfc1dd9b7c2f_233193_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/previous-week/1_huf82040eb99bb5e0ab90fbfc1dd9b7c2f_233193_06c2811cb3a4428bccf0455117b8d6f7.webp&#34;
-               width=&#34;626&#34;
-               height=&#34;410&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;кратко-о-дней&#34;&gt;Кратко о дней&lt;/h2&gt;
-&lt;p&gt;Так как это был государственный празник, мы с друзьями решили врямя зря не терять и продолжить наш проект оптимизации библиотек питон под cpp.&lt;/p&gt;
-&lt;h2 id=&#34;что-успели-сделать&#34;&gt;Что успели сделать&lt;/h2&gt;
-&lt;p&gt;Мы успели оптимизировать стандартные методы для масивов (реверс, отображение, сортировка, поиск)&lt;/p&gt;
-&lt;p&gt;Также мы полностью оптимизировали библиотеку itertools.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Управление версиями Git</title>
+      <title>Git Version Control</title>
       <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
-      <description>&lt;h2 id=&#34;технология-git-кратко&#34;&gt;Технология Git кратко&lt;/h2&gt;
-&lt;p&gt;Управление версиями с помощью Git является необходимым инструментом для разработчиков программного обеспечения. Git позволяет отслеживать изменения в коде, совместно работать над проектами и легко возвращаться к предыдущим версиям файлов.
-Основными концепциями Git являются репозитории, коммиты и ветки. Репозиторий - это хранилище проекта, коммиты записывают изменения в файлах, а ветки позволяют независимо развивать функциональность, не влияя на основную ветвь разработки.
-Git предоставляет команды для создания новых веток, слияния их с основной веткой, разрешения конфликтов при слиянии и многое другое. Также Git поддерживает распределенную модель разработки, что облегчает совместную работу над проектом удаленным командам.
-Изучение Git является обязательным для любого разработчика, так как это повышает эффективность работы, упрощает отслеживание изменений и предотвращает потерю данных. Git стал стандартом де-факто для управления версиями в индустрии разработки программного обеспечения.&lt;/p&gt;
-&lt;h2 id=&#34;команды-для-управления-гит&#34;&gt;Команды для управления гит&lt;/h2&gt;
-&lt;p&gt;Вот некоторые стандартные команды Git для управления репозиториями:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;git-technology-in-brief&#34;&gt;Git technology in brief&lt;/h2&gt;
+&lt;p&gt;Version control with Git is an essential tool for software developers. Git allows you to track code changes, collaborate on projects, and easily revert to previous versions of files.
+The core concepts of Git are repositories, commits, and branches. A repository is a repository for a project, commits record changes to files, and branches allow functionality to be independently developed without affecting the main development branch.
+Git provides commands for creating new branches, merging them with the main branch, resolving merge conflicts, and much more. Git also supports a distributed development model, which makes it easier for remote teams to collaborate on a project.
+Learning Git is a must for any developer as it improves productivity, makes it easier to track changes, and prevents data loss. Git has become the de facto standard for version control in the software development industry.&lt;/p&gt;
+&lt;h2 id=&#34;commands-for-managing-git&#34;&gt;Commands for managing git&lt;/h2&gt;
+&lt;p&gt;from some standard Git commands for managing repositories:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;code&gt;git init&lt;/code&gt; - инициализирует новый репозиторий Git в текущей директории.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git clone&lt;/code&gt; - клонирует удаленный репозиторий на локальную машину.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git add&lt;/code&gt; - добавляет файлы в область подготовленных файлов для следующего коммита.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git commit&lt;/code&gt; - фиксирует изменения в репозитории с комментарием.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git status&lt;/code&gt; - показывает текущее состояние репозитория.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git branch&lt;/code&gt; - перечисляет все существующие ветки.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git checkout&lt;/code&gt; - переключается между ветками или восстанавливает файлы.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git merge&lt;/code&gt; - объединяет другую ветку с текущей.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git pull&lt;/code&gt; - получает изменения из удаленного репозитория и объединяет их с локальной веткой.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git push&lt;/code&gt; - отправляет локальные коммиты в удаленный репозиторий.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git log&lt;/code&gt; - показывает журнал коммитов в репозитории.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git diff&lt;/code&gt; - показывает различия между файлами или коммитами.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git reset&lt;/code&gt; - отменяет коммиты или изменения в рабочей области.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git stash&lt;/code&gt; - временно откладывает незафиксированные изменения.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git init&lt;/code&gt; - initializes a new Git repository in the current directory.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git clone&lt;/code&gt; - clones a remote repository to the local machine.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add&lt;/code&gt; - adds files to the staging area for the next commit.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit&lt;/code&gt; - commits changes to the repository with a comment.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git status&lt;/code&gt; - shows the current state of the repository.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git branch&lt;/code&gt; - lists all existing branches.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git checkout&lt;/code&gt; - switches between branches or restores files.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git merge&lt;/code&gt; - merges another branch with the current one.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git pull&lt;/code&gt; - retrieves changes from a remote repository and merges them into the local branch.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push&lt;/code&gt; - pushes local commits to a remote repository.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git log&lt;/code&gt; - shows the commit log in the repository.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git diff&lt;/code&gt; - shows differences between files or commits.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git reset&lt;/code&gt; - undoes commits or changes to the workspace.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git stash&lt;/code&gt; - temporarily postpones uncommitted changes.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Это лишь некоторые основные команды. Git предлагает множество других команд и опций для более тонкой настройки и управления репозиториями.&lt;/p&gt;
+&lt;p&gt;These are just some of the basic commands. Git offers many other commands and options for fine-tuning and managing repositories.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how my week goes</title>
+      <link>https://example.com/post/previous-week/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previous-week/</guid>
+      <description>&lt;h2 id=&#34;briefly-about-days&#34;&gt;Briefly about days&lt;/h2&gt;
+&lt;p&gt;Since it was a national holiday, my friends and I decided not to waste time and continue our project of optimizing Python libraries for cpp.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-managed-to-do&#34;&gt;What we managed to do&lt;/h2&gt;
+&lt;p&gt;We managed to optimize standard methods for arrays (reverse, display, sorting, search)&lt;/p&gt;
+&lt;p&gt;We have also completely optimized the itertools library.&lt;/p&gt;
 </description>
     </item>
     
